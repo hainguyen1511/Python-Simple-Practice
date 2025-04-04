@@ -1,5 +1,5 @@
 # Python Simple Practice
-# Simple calculator n choose K
+# Simple calculator n choose K [[Link Text](https://github.com/hainguyen1511/Python-Simple-Practice/blob/main/n%20choose%20k.py)]
 * N-Choose-K problem:
 Design a dynamic programming algorithm for the recursive n-choose-k problem discussed in class and then indicate its time and space complexity.
 # Quantity of coin in exchange as minimum
