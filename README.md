@@ -26,3 +26,6 @@ The program prompts the user to input a number (n) and then prints the result of
 * Best to process huge amount of coins
 # Problem : Sampling Without Replacement
 ![Screenshot 2025-04-03 202722](https://github.com/user-attachments/assets/9b65d130-d9c5-4dd5-b98d-d1238fc8c08a)
+* Create two functions, one for factorial and the other for combination process.
+* Create three values to store result of combination function.
+* Also using 1000 trials to test the ratio of success/ trial
