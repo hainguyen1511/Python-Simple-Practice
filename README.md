@@ -32,3 +32,6 @@ The program prompts the user to input a number (n) and then prints the result of
 # Binary search
 * Binary search operates in O(log n) time complexity
 * The function might fail if mid exceeds the valid index range due to improper bounds.
+# Better sorting function
+* Merge Sort operates in O(n log n) time complexity
+* Merge Sort handles data in chunks, it’s useful for sorting massive datasets that don’t fit into memory.
