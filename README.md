@@ -17,3 +17,10 @@ It returns the value of 1 + s, where s is the smallest of a, b, and c.
 > Input and Output:
 The program prompts the user to input a number (n) and then prints the result of f(n).
 > A dynamic programming, such as minimizing some cost or steps while building a sequence.
+# Quantity of coin in exchange as minimum with memoization--—a technique that optimizes recursive functions by storing previously computed results.
+* Storing the base case in an array
+* t is an array that stores computed values to avoid redundant calculations.
+* If t[n] isn't -1, that means n has already been processed and can be returned directly.
+* The function recursively finds the minimum steps needed to reach n by comparing results from n-1, n-3, and n-4.
+* The base cases are predefined (t[1] = 1, t[2] = 2, etc.) to provide direct answers for small values of n.
+* Best to process huge amount of coins
