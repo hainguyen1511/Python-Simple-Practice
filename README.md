@@ -18,20 +18,20 @@ It returns the value of 1 + s, where s is the smallest of a, b, and c.
 The program prompts the user to input a number (n) and then prints the result of f(n).
 > A dynamic programming, such as minimizing some cost or steps while building a sequence.
 # Quantity of coin in exchange as minimum with memoization--—a technique that optimizes recursive functions by storing previously computed results.
-* Storing the base case in an array
+* Storing the base case in an array.
 * t is an array that stores computed values to avoid redundant calculations.
 * If t[n] isn't -1, that means n has already been processed and can be returned directly.
 * The function recursively finds the minimum steps needed to reach n by comparing results from n-1, n-3, and n-4.
 * The base cases are predefined (t[1] = 1, t[2] = 2, etc.) to provide direct answers for small values of n.
-* Best to process huge amount of coins
+* Best to process huge amount of coins.
 # Problem : Sampling Without Replacement
 ![Screenshot 2025-04-03 202722](https://github.com/user-attachments/assets/9b65d130-d9c5-4dd5-b98d-d1238fc8c08a)
 * Create two functions, one for factorial and the other for combination process.
 * Create three values to store result of combination function.
-* Also using 1000 trials to test the ratio of success/ trial
+* Also using 1000 trials to test the ratio of success/ trial.
 # Binary search
-* Binary search operates in O(log n) time complexity
+* Binary search operates in O(log n) time complexity.
 * The function might fail if mid exceeds the valid index range due to improper bounds.
 # Better sorting function
-* Merge Sort operates in O(n log n) time complexity
+* Merge Sort operates in O(n log n) time complexity.
 * Merge Sort handles data in chunks, it’s useful for sorting massive datasets that don’t fit into memory.
