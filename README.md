@@ -3,6 +3,7 @@
 * N-Choose-K problem:
 Design a dynamic programming algorithm for the recursive n-choose-k problem discussed in class and then indicate its time and space complexity.
 # [Quantity of coin in exchange as minimum](https://github.com/hainguyen1511/Python-Simple-Practice/blob/main/coin.py)
+> [!NOTE]
 > Base Cases: It handles specific small input values explicitly:
 If n is 1, 3, or 4, the function returns 1.
 If n is 2, the function returns 2.
