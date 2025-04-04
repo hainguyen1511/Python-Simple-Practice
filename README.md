@@ -23,6 +23,7 @@ It returns the value of 1 + s, where s is the smallest of a, b, and c.
 > [!IMPORTANT]
 > Input and Output:
 The program prompts the user to input a number (n) and then prints the result of f(n).
+
 > [!IMPORTANT]
 > A dynamic programming, such as minimizing some cost or steps while building a sequence.
 # [Quantity of coin in exchange as minimum with memoization--—a technique that optimizes recursive functions by storing previously computed results.](https://github.com/hainguyen1511/Python-Simple-Practice/blob/main/dynamic%20coin.py)
