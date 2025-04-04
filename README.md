@@ -29,3 +29,6 @@ The program prompts the user to input a number (n) and then prints the result of
 * Create two functions, one for factorial and the other for combination process.
 * Create three values to store result of combination function.
 * Also using 1000 trials to test the ratio of success/ trial
+# Binary search
+* Binary search operates in O(log n) time complexity
+* The function might fail if mid exceeds the valid index range due to improper bounds.
