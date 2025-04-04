@@ -24,3 +24,5 @@ The program prompts the user to input a number (n) and then prints the result of
 * The function recursively finds the minimum steps needed to reach n by comparing results from n-1, n-3, and n-4.
 * The base cases are predefined (t[1] = 1, t[2] = 2, etc.) to provide direct answers for small values of n.
 * Best to process huge amount of coins
+# Problem : Sampling Without Replacement
+![Screenshot 2025-04-03 202722](https://github.com/user-attachments/assets/9b65d130-d9c5-4dd5-b98d-d1238fc8c08a)
